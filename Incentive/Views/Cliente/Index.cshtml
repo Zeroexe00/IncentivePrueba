@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Incentive.Models.Cliente>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Listado de Clientes</h2>
+<table class="table table-hover">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.codigo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ciudad)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.codigo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ciudad)
+            </td>
+
+            <td>
+                <button onclick="window.location.href='@Url.Action("Details", "Cliente", new {id = item.codigo })'" class="btn"><i class="glyphicon glyphicon-search"></i></button>
+
+                <button onclick="window.location.href='@Url.Action("Delete", "Cliente", new {id = item.codigo  })'" class="btn"><i class="glyphicon glyphicon-trash"></i></button>
+
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,11 @@
+C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Incentive\Incentive\bin\Debug\netcoreapp2.0\Incentive.deps.json
+C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Incentive\Incentive\bin\Debug\netcoreapp2.0\Incentive.runtimeconfig.json
+C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Incentive\Incentive\bin\Debug\netcoreapp2.0\Incentive.runtimeconfig.dev.json
+C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Incentive\Incentive\bin\Debug\netcoreapp2.0\Incentive.dll
+C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Incentive\Incentive\bin\Debug\netcoreapp2.0\Incentive.pdb
+C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Incentive\Incentive\obj\Debug\netcoreapp2.0\Incentive.csprojAssemblyReference.cache
+C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Incentive\Incentive\obj\Debug\netcoreapp2.0\Incentive.csproj.CoreCompileInputs.cache
+C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Incentive\Incentive\obj\Debug\netcoreapp2.0\Incentive.AssemblyInfoInputs.cache
+C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Incentive\Incentive\obj\Debug\netcoreapp2.0\Incentive.AssemblyInfo.cs
+C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Incentive\Incentive\obj\Debug\netcoreapp2.0\Incentive.dll
+C:\Users\exe_6\Desktop\miturno.com\AppMiturno.com\Incentive\Incentive\obj\Debug\netcoreapp2.0\Incentive.pdb
